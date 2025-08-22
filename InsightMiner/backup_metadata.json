@@ -1,0 +1,64 @@
+{
+  "last_backup_date": "2025-08-22T06:26:55.331455",
+  "file_checksums": {
+    ".env": {
+      "size": 557,
+      "modified_time": 1755833204.777866,
+      "checksum": "93aed3e19e4c223a7680dfc0295e9f4dd9546714aedc13dec2c92d6a131c8481"
+    },
+    ".gitignore.txt": {
+      "size": 145,
+      "modified_time": 1755829997.9331784,
+      "checksum": "5e16dd26a6c209f11d7fd48a1b8d14bcbf8801d25632ad8f26965b660d560498"
+    },
+    "BACKUP_AUTO.py": {
+      "size": 14963,
+      "modified_time": 1755833193.543469,
+      "checksum": "c293a7be5e24c93c1399e0da115f2439e0741be0268bb4b66c38eaf7a12e5bbf"
+    },
+    "CHANGELOG.md": {
+      "size": 6016,
+      "modified_time": 1755831926.4525354,
+      "checksum": "5f9f2995da24b324309b3c6739b482e3d94f4344a758f4706b5e9f3e82dbad1d"
+    },
+    "insight_miner.py": {
+      "size": 125827,
+      "modified_time": 1755832525.0568426,
+      "checksum": "a6e0ac5e6924fba930fdc71d4041d59275201d57ff23d67e563f61aa0be7886c"
+    },
+    "requirements.txt": {
+      "size": 258,
+      "modified_time": 1755831449.9858403,
+      "checksum": "54ace187ecdd22bcba915b2e11638ab2aeda4fb1f8e9c2c3627949640030c077"
+    },
+    "Rules.md": {
+      "size": 6218,
+      "modified_time": 1755831073.2769473,
+      "checksum": "dc786e932ff719c3ad3e45b3ef3af4af56371be51c677caae111d37c7e2eb7ab"
+    },
+    "Logs\\AuthLogs.js": {
+      "size": 620,
+      "modified_time": 1755833161.9133844,
+      "checksum": "2f27f787872fc6845da5dd07a5dab444ebf948dbf4a4d3f374c78b91e3491640"
+    },
+    "Logs\\ErrorLogs.js": {
+      "size": 0,
+      "modified_time": 1755831663.4156563,
+      "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  },
+  "backup_history": [
+    {
+      "date": "2025-08-22T06:22:00.423557",
+      "backup_dir": "C:\\Users\\guyle\\Desktop\\Project Backups\\InsightMiner_backup_2025-08-22_06-22",
+      "files_backed_up": 9,
+      "total_files": 9
+    },
+    {
+      "date": "2025-08-22T06:26:55.331461",
+      "backup_dir": "C:\\Users\\guyle\\Desktop\\Project Backups\\InsightMiner_backup_2025-08-22_06-26",
+      "files_backed_up": 3,
+      "total_files": 9
+    }
+  ]
+}

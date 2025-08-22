@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>InsightMiner Settings</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="icons/icon48.png" alt="logo" class="logo">
+            <div class="title-container">
+                <div class="title">InsightMiner</div>
+                <div class="subtitle">Extension Settings</div>
+            </div>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number" id="minedCount">0</div>
+                <div class="stat-label">Mined</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="failedCount">0</div>
+                <div class="stat-label">Failed</div>
+            </div>
+        </div>
+
+        <div class="settings-section">
+            <div class="section-title">Python App Status</div>
+            <div class="setting-row">
+                <label>Connection Status:</label>
+                <div id="connectionStatus" class="status-indicator">Checking...</div>
+            </div>
+            <div class="setting-row">
+                <label>Server:</label>
+                <div class="status-text">localhost:8502</div>
+            </div>
+        </div>
+
+        <button id="checkConnection" class="btn">Check Connection</button>
+        <button id="resetStats" class="btn secondary">Reset Stats</button>
+
+        <div id="status"></div>
+        <div class="footer">Version 1.0.1</div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>

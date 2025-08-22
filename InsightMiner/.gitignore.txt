@@ -1,0 +1,13 @@
+# Ignore runtime folders
+Logs/
+Logs/**
+
+temp_processing/
+temp_processing/**
+
+# Common ignores
+*.log
+*.pyc
+__pycache__/
+dist/
+build/

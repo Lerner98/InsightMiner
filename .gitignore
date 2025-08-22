@@ -1,0 +1,33 @@
+# === Ignore heavy / generated folders ===
+IM_Data/
+IM_Data/**
+
+InsightMiner/OllamaSetup.exe
+
+InsightMiner/Logs/
+InsightMiner/temp_processing/
+
+# === Node.js ===
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# === Python ===
+*.pyc
+__pycache__/
+dist/
+build/
+
+# === Environment / Config ===
+.env
+.env.*
+*.log
+config.json
+InsightMiner/config.json
+
+# === OS / Editor ===
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
